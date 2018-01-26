@@ -12,6 +12,9 @@
 ;;; but reading the Data/<map> file instead
 
 ;;; Copyright (C) 2002-2008 Sam Steingold <sds@gnu.org>
+;;;
+;;; License: GPL
+;;;
 ;;; Keywords: lisp, common lisp, emacs, ANSI CL, hyperspec
 ;;; released under the GNU GPL <http://www.gnu.org/copyleft/gpl.html>
 ;;; as a part of GNU CLISP <http://clisp.cons.org>, <http://www.clisp.org>
